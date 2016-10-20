@@ -1,0 +1,10 @@
+C:/Users/glennc/code/msbuildtest/src/App1/bin/Debug/netcoreapp1.0/App1.dll
+C:/Users/glennc/code/msbuildtest/src/App1/bin/Debug/netcoreapp1.0/App1.pdb
+C:/Users/glennc/code/msbuildtest/src/App1/obj/Debug/netcoreapp1.0/App1.AssemblyInfo.cs
+C:/Users/glennc/code/msbuildtest/src/App1/obj/Debug/netcoreapp1.0/App1.dll
+C:/Users/glennc/code/msbuildtest/src/App1/obj/Debug/netcoreapp1.0/App1.pdb
+/src/src/App1/bin/Debug/netcoreapp1.0/App1.dll
+/src/src/App1/bin/Debug/netcoreapp1.0/App1.pdb
+/src/src/App1/obj/Debug/netcoreapp1.0/App1.AssemblyInfo.cs
+/src/src/App1/obj/Debug/netcoreapp1.0/App1.dll
+/src/src/App1/obj/Debug/netcoreapp1.0/App1.pdb
